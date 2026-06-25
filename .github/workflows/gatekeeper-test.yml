@@ -2,7 +2,7 @@ name: Performance Regression Test Bench
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ main ] 
 
 jobs:
   run-performance-gatekeeper:
